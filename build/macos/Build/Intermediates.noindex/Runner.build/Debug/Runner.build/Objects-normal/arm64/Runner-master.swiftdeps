@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.5.2 (swiftlang-1300.0.47.5 clang-1300.0.29.30)"
+options: "9a1a92567da5ba281853eeb8aa848932366c22d4c906cd6a3183548b7eafb970"
+build_start_time: [1665626691, 324307918]
+build_end_time: [1665626694, 693730831]
+inputs:
+  "/Users/daopq/Desktop/Flutter/exp2/macos/Flutter/GeneratedPluginRegistrant.swift": [1665626679, 924919128]
+  "/Users/daopq/Desktop/Flutter/exp2/macos/Runner/AppDelegate.swift": [1664987375, 0]
+  "/Users/daopq/Desktop/Flutter/exp2/macos/Runner/MainFlutterWindow.swift": [1664987375, 0]
