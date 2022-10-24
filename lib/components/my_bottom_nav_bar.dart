@@ -1,3 +1,4 @@
+import 'package:exp2/screens/managementWork/manager_work_screen.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/flutter_svg.dart';
 
@@ -36,7 +37,10 @@ class MyBottomNavBar extends StatelessWidget {
           ),
           IconButton(
             icon: SvgPicture.asset("assets/icons/heart-icon.svg"),
-            onPressed: () {},
+            onPressed: () {
+              Navigator.push(context,
+                  MaterialPageRoute(builder: (context) => Manager_Work()));
+            },
           ),
           IconButton(
             icon: SvgPicture.asset("assets/icons/user-icon.svg"),
